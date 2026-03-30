@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Refactored module structure for clarity
 - Bumped patch version
+
+## 2026-03-30
+- Reviewed security headers configuration
+- Documented config options
