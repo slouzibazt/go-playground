@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Reviewed security headers configuration
 - Documented config options
+
+## 2026-03-30
+- Tidied up project structure
+- Added CONTRIBUTING.md stub
